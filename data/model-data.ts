@@ -139,7 +139,142 @@ export const modelData: ModelData = {
       alt: "DHRITI SHARMAcommercial portfolio",
       category: "Commercial",
     },
-    
+    {
+      src: "/portfolio/gallery-11.JPG",
+      alt: "DHRITI SHARMAfashion portfolio",
+      category: "Fashion",
+      featured: true,
+    },
+    {
+      src: "/portfolio/gallery-12.JPG",
+      alt: "DHRITI SHARMAfashion portrait",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-13.JPG",
+      alt: "DHRITI SHARMAstudio portrait",
+      category: "Studio",
+    },
+    {
+      src: "/portfolio/gallery-14.JPG",
+      alt: "DHRITI SHARMAoutdoor portrait",
+      category: "Outdoor",
+      featured: true,
+    },
+    {
+      src: "/portfolio/gallery-15.JPG",
+      alt: "DHRITI SHARMAcommercial portfolio",
+      category: "Commercial",
+    },
+    {
+      src: "/portfolio/gallery-16.JPG",
+      alt: "DHRITI SHARMAlifestyle portrait",
+      category: "Casual",
+    },
+    {
+      src: "/portfolio/gallery-17.JPG",
+      alt: "DHRITI SHARMAfashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-18.JPG",
+      alt: "DHRITI SHARMAcampaign portrait",
+      category: "Campaign",
+    },
+    {
+      src: "/portfolio/gallery-19.JPG",
+      alt: "DHRITI SHARMAeditorial portrait",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-20.JPG",
+      alt: "DHRITI SHARMAfashion portfolio",
+      category: "Fashion",
+      featured: true,
+    },
+    {
+      src: "/portfolio/gallery-21.JPG",
+      alt: "DHRITI SHARMAfashion portrait",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-22.JPG",
+      alt: "DHRITI SHARMAstudio portrait",
+      category: "Studio",
+    },
+    {
+      src: "/portfolio/gallery-23.JPG",
+      alt: "DHRITI SHARMAoutdoor portrait",
+      category: "Outdoor",
+      featured: true,
+    },
+    {
+      src: "/portfolio/gallery-24.JPG",
+      alt: "DHRITI SHARMAcommercial portfolio",
+      category: "Commercial",
+    },
+    {
+      src: "/portfolio/gallery-25.JPG",
+      alt: "DHRITI SHARMAlifestyle portrait",
+      category: "Casual",
+    },
+    {
+      src: "/portfolio/gallery-26.JPG",
+      alt: "DHRITI SHARMAfashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-27.JPG",
+      alt: "DHRITI SHARMAcampaign portrait",
+      category: "Campaign",
+    },
+    {
+      src: "/portfolio/gallery-28.JPG",
+      alt: "DHRITI SHARMAeditorial portrait",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-29.JPG",
+      alt: "DHRITI SHARMAfashion portfolio",
+      category: "Fashion",
+      featured: true,
+    },
+    {
+      src: "/portfolio/gallery-30.JPG",
+      alt: "DHRITI SHARMAfashion portrait",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-31.JPG",
+      alt: "DHRITI SHARMAstudio portrait",
+      category: "Studio",
+    },
+    {
+      src: "/portfolio/gallery-32.JPG",
+      alt: "DHRITI SHARMAoutdoor portrait",
+      category: "Outdoor",
+      featured: true,
+    },
+    {
+      src: "/portfolio/gallery-33.JPG",
+      alt: "DHRITI SHARMAcommercial portfolio",
+      category: "Commercial",
+    },
+    {
+      src: "/portfolio/gallery-34.JPG",
+      alt: "DHRITI SHARMAlifestyle portrait",
+      category: "Casual",
+    },
+    {
+      src: "/portfolio/gallery-35.JPG",
+      alt: "DHRITI SHARMAfashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-36.JPG",
+      alt: "DHRITI SHARMAcampaign portrait",
+      category: "Campaign",
+    },
     
   ],
 

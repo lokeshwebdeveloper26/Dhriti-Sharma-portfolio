@@ -285,20 +285,20 @@ export const modelData: ModelData = {
    * Videos never autoplay with sound.
    */
   videos: [
-  /**{
-    title: "DHRITI SHARMAModel Shoot",
-    category: "Fashion",
+  {
+    title: "DHRITI SHARMA Model Shoot",
+    category: "RAW Video FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name.mp4",
+    src: "/portfolio/videos/DHRITI SHARMA.mp4",
     type: "mp4",
   },
   {
-    title: "DHRITI SHARMAModel Shoot",
-    category: "Fashion",
+    title: "DHRITI SHARMA Model Shoot",
+    category: "LIVE ADVERTISEMENT RECORDING FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name-compressed.mp4",
+    src: "/portfolio/videos/DHRITI SHARMA (1).mp4",
     type: "mp4",
-  },*/
+  },
 ],
 
    
